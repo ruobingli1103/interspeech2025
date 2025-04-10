@@ -4,7 +4,9 @@ name：model-id-speakerid-speech.wav
 
 text：
 1-Must a name mean something?
+
 2-As rich as Peter's son in law!
+
 3-In which fox loses a tail and its elder sister finds one.
 
 
